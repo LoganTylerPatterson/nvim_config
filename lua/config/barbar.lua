@@ -1,8 +1,8 @@
 require'barbar'.setup {
 	animation = true,
 	clickable = true,
-	exclude_ft = {'javascript'},
-	exclude_name = {'package.json'},
+	exclude_ft = {},
+	exclude_name = {},
 	focus_on_close = 'left',
 	highlight_inactive_file_icons = false,
 	highlight_visible = true,
